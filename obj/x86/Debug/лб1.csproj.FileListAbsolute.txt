@@ -1,0 +1,9 @@
+F:\Data\4 семестр\РиСПСиИТ\лб1\лб1\bin\Debug\лб1.exe
+F:\Data\4 семестр\РиСПСиИТ\лб1\лб1\bin\Debug\лб1.pdb
+F:\Data\4 семестр\РиСПСиИТ\лб1\лб1\obj\x86\Debug\лб1.Form1.resources
+F:\Data\4 семестр\РиСПСиИТ\лб1\лб1\obj\x86\Debug\лб1.Properties.Resources.resources
+F:\Data\4 семестр\РиСПСиИТ\лб1\лб1\obj\x86\Debug\лб1.csproj.GenerateResource.Cache
+F:\Data\4 семестр\РиСПСиИТ\лб1\лб1\obj\x86\Debug\лб1.exe
+F:\Data\4 семестр\РиСПСиИТ\лб1\лб1\obj\x86\Debug\лб1.pdb
+F:\Data\4семестр\РиСПСиИТ\лб1\obj\x86\Debug\лб1.exe
+F:\Data\4семестр\РиСПСиИТ\лб1\obj\x86\Debug\лб1.pdb
